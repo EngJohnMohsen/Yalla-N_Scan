@@ -2,9 +2,9 @@
 Yalla N_Scan
 
 Test Cases:
-1. done
-2. done bs giibberish
-3. done
+1. done (file project_yalla_n_decode)
+2. done bs giibberish (file project_yalla_n_decode)
+3. done (file TC-3)
 4. done bs gibberish (beytala3 error bs decoded gibberish) (file TC-4V2)
 5. same as 4 (file TC-5)
 6. not yet (image phase 1 msh mazbota 3ndi)

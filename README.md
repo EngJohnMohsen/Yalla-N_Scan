@@ -8,7 +8,7 @@ Test Cases:
 4. done bs gibberish  (file TC-4V2) (beytala3 error bs decoded gibberish)
 5. done bs gibberish (file TC-5) (beytala3 error bs decoded gibberish)
 6. done bs gibberish (file TC-6)
-7. work in progress
+7. done bs gibberish (file TC-7)
 8. work in progress
 9. work in progress
 10. no clue

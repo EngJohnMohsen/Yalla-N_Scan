@@ -5,11 +5,11 @@ Test Cases:
 1. done (file project_yalla_n_decode)
 2. done bs giibberish (file project_yalla_n_decode)
 3. done (file TC-3)
-4. done bs gibberish  (file TC-4V2) (beytala3 error bs decoded gibberish)
+4. done bs gibberish  (file project_yalla_n_decode)
 5. done bs gibberish (file TC-5) (beytala3 error bs decoded gibberish)
 6. done bs gibberish (file TC-6)
 7. done bs gibberish (file TC-7)
-8. work in progress
+8. done bs gibberish (file TC-8) (beytala3 error bs decoded gibberish)
 9. work in progress
 10. no clue
 11. msh la2ya result phase 1

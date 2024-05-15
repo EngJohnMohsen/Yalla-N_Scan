@@ -10,8 +10,8 @@ Test Cases:
 6. done bs gibberish (file TC-6)
 7. done bs gibberish (file TC-7)
 8. done bs gibberish (file TC-8) (beytala3 error bs decoded gibberish)
-9. work in progress
-10. no clue
+9. done bs gibberish (file TC-9) (beytala3 error bs decoded gibberish)
+10. done bs gibberish (file TC-10) (beytala3 error bs decoded gibberish)
 11. msh la2ya result phase 1
 12. work in progress
 13. no clue

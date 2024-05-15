@@ -13,7 +13,7 @@ Test Cases:
 9. done bs gibberish (file TC-9) (beytala3 error bs decoded gibberish)
 10. done bs gibberish (file TC-10) (beytala3 error bs decoded gibberish)
 11. msh la2ya result phase 1
-12. work in progress
+12. done bs gibberish (file TC-12) (beytala3 error bs decoded gibberish)
 13. no clue
 14. msh 3rfa azbotha
 15. bonus lw el ba2i kheles
